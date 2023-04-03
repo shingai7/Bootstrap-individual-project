@@ -1,0 +1,14 @@
+.hero{
+    background-image: url(computer.png);
+    min-height: 60vh;
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+}
+
+
+
+.paragraph{
+font-size: larger;
+}
